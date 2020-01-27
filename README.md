@@ -37,12 +37,6 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, ped
 
 ### Outros repositórios de vagas
 
-Como esse repositório é específico para a postagem de vagas de **front-end**,
-mas existem vagas para muitas outras áreas nesse mercado, algumas pessoas
-da comunidade forkaram esse repositório e criaram outras listas específicas
-para diferentes _stacks_ e estados do país. Confira abaixo as outras
-listas onde você poderá postar sua vaga:
-
 Este repositório é específico para a localidade da Baixada Santista (SP), para conferir vagas em outras localidades e/ou com outras tecnologias do mercado confira abaixo outros lugares que você pode procurar/postar vagas:
 
 - [Vagas para desenvolvedores(as) React](https://github.com/react-brasil/vagas)
