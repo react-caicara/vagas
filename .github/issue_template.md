@@ -1,8 +1,9 @@
 <!--
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM REACT OU TECNOLOGIAS DO ECOSSISTEMA!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA TRABALHAR COM REACT OU TECNOLOGIAS DO ECOSSISTEMA, E QUE
+SEJAM NA REGIÃO DA BAIXADA SANTISTA!
 
-Exemplo: `[São Paulo] React Native Developer na NOME DA EMPRESA`
+Exemplo: `[Santos] React Native Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
@@ -12,7 +13,7 @@ Projeto supimpa com React Native, etc..
 
 ## Local
 
-Remoto ou Escritório, São Paulo - Vila Madalena
+Remoto ou Escritório, Santos - Gonzaga
 
 ## Benefícios
 
